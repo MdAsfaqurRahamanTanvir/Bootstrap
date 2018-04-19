@@ -1,0 +1,54 @@
+header,footer{
+    background-color: #9FC5F8;
+    min-height: 100px;
+}
+
+.color_bg{
+    background-color: #9FC5F8;
+}
+
+.header_common_style{
+    background-color: #CFE2FB;
+    min-height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#hero,#containt,footer{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.hero_common_style{
+    background-color: #CFE2FB;
+    min-height: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.add{
+    background-color: #6FA8DC;
+    min-height: 250px;
+}
+
+.containt_heoght{
+            min-height: 500px;
+}
+
+.side_bar{
+    overflow: hidden;
+
+}
+
+.containt_common_style{
+    background-color: #CFE2FB;
+    min-height: 450px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.side_style{
+    background-color: #CFE2FB;
+    min-height: 450px;
+        margin: 25px;
+}

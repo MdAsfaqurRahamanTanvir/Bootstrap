@@ -1,0 +1,133 @@
+@media (min-width: 0px){
+   .articla_features{
+            min-height: 170px;
+    }   
+    .add{
+            margin-top: 25px;
+    min-height: 170px
+    }
+    .contant{
+        min-height: 150px;
+    }
+    .side_bar{
+         margin-top: 15px;
+        min-height: 150px;
+       
+    }
+    .side_style{
+        margin-top: 15px;
+        min-height: 100px;
+       
+    }
+    .padding_left{
+        padding-left: 0px;
+    }
+}
+
+/*small*/
+
+@media (min-width: 576px) and (max-width:767px) {
+    .articla_features{
+            min-height: 170px;
+    }   
+    .add{
+            margin-top: 25px;
+    min-height: 170px
+    }
+    .contant{
+        
+    }
+    .side_bar{
+         margin-top: 15px;
+        min-height: 150px;
+        
+    }
+    .side_style{
+        margin-top: 15px;
+        min-height: 100px;
+       
+    }
+    .padding_left{
+        padding-left: 0px;
+    }
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width:991px) 
+{ 
+    .articla_features{
+            min-height: 170px;
+    }   
+    .add{
+            margin-top: 25px;
+    min-height: 170px
+    }
+    .contant{
+        
+    }
+    .side_bar{
+         margin-top: 15px;
+        min-height: 150px;
+    }
+    .side_style{
+        margin-top: 15px;
+            min-height: 110px;
+        
+    }
+    .padding_left{
+        padding-left: 0px;
+    }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+      .articla_features{
+                min-height: 450px;
+    }   
+    .add{
+            margin-top: 0px;
+    min-height: 200px
+    }
+    .contant{
+            min-height: 450px;
+    }
+    .side_bar{
+        margin-top: 0px;
+        min-height: 500px;
+    }
+    .side_style{
+       margin:25px;
+        min-height: 450px;
+        
+    }
+    .padding_left{
+        padding-left: 15px;
+    }
+    
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+     .articla_features{
+               min-height: 450px;
+    }   
+    .add{
+            margin-top: 0px;
+    min-height: 200px;
+    }
+    .contant{
+            min-height: 450px;
+    }
+    .side_bar{
+        margin-top: 0px;
+        min-height: 500px;
+    }
+    .side_style{
+       margin:25px;
+        min-height: 450px;
+        
+    }
+    .padding_left{
+        padding-left: 15px;
+    }
+}
